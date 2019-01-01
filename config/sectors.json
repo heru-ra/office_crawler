@@ -1,0 +1,20 @@
+{
+	"0": {
+		"name": "Hallway"
+	},
+	"1": {
+		"name": "Office"
+	},
+	"2": {
+		"name": "Conference Room"
+	},
+	"3": {
+		"name": "Restroom"
+	},
+	"4": {
+		"name": "Cafeteria"
+	},
+	"5": {
+		"name": "Quiet Room"
+	}
+}

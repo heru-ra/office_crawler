@@ -1,0 +1,56 @@
+{
+	"1": {
+		"name": "",
+		"desc": {
+			"normal": "",
+			"extra": null,
+			"night": null,
+			"under": null,
+			"behind": null,
+			"above": null,
+			"smell": null,
+			"listen": null
+		},
+		"exits": {
+			"north": {
+				"to": null,
+				"desc": null,
+				"door": null,
+				"door_flags": null
+			},
+			"south": {
+				"to": null,
+				"desc": null,
+				"door": null,
+				"door_flags": null
+			},
+			"west": {
+				"to": null,
+				"desc": null,
+				"door": null,
+				"door_flags": null
+			},
+			"east": {
+				"to": null,
+				"desc": null,
+				"door": null,
+				"door_flags": null
+			},
+			"up": {
+				"to": null,
+				"desc": null,
+				"door": null,
+				"door_flags": null
+			},
+			"down": {
+				"to": null,
+				"desc": null,
+				"door": null,
+				"door_flags": null
+			}
+		},
+		"zone": [1],
+		"sector": 0,
+		"flags": null
+	}
+}
